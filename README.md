@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Navdeep Kaur</h1>
 <h3 align="center">Turning ideas into stunning web experiences ✨</h3>
 
-<img align="right" width="300" src="https://github.com/Navdeepkaurs/Navdeepkaurs/blob/0353afd5f02750f3591ecbcd9928455c48adf769/ghost.gif" alt="navdeepkaurs" />
+<img align="center" width="300" src="https://github.com/Navdeepkaurs/Navdeepkaurs/blob/0353afd5f02750f3591ecbcd9928455c48adf769/ghost.gif" alt="navdeepkaurs" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navdeepkaurs&label=Profile%20views&color=0e75b6&style=flat" alt="navdeepkaurs" /> </p>
 
